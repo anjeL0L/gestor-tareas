@@ -1,4 +1,4 @@
-# Gestor de tareas
+# Gestor de tareas App
 
 ## Integrantes
 - [Angel Merancia]
