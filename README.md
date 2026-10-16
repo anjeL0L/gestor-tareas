@@ -1,4 +1,4 @@
-# Gestor de tareas v1.01
+# Gestor de tareas v1.0
 
 ## Integrantes
 - [Angel Merancia]
